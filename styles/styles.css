@@ -177,8 +177,8 @@ section {
 }
 .header-content .left-header .image {
   border-radius: var(--br-sm-2);
-  height: 50%;
-  width: 60%;
+  height: 43%;
+  width: 59%;
   margin-left: 4rem;
   background-color: var(--color-transparent);
 
@@ -489,7 +489,7 @@ section {
 }
 .contact-content-con .left-contact .contact-info .contact-item {
   display: flex;
-  align-items: center;
+  align-items: left;
   justify-content: space-between;
 }
 .contact-content-con .left-contact .contact-info .contact-item p {
